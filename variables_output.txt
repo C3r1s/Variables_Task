@@ -1,0 +1,4 @@
+intovay_peremennaya
+vectornay_peremennaya
+bool_peremennaya
+string_peremennaya
